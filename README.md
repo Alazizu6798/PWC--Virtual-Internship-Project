@@ -25,11 +25,13 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Call%20Centre%20Trends.pbix">Call Centre Trends Dashboard</a>
+
 2 Task
 - Customers Demographics Analysis as per there subscriptions of contract.
 - Customers Acoount Analysis as per there payment method.
 - Services Customer Signed up for.
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Customer%20Risk%20Analysis.pbix">Customer Risk Analysis Dashboard</a>
+
 3 Task
 - Performance Rating Analysis on the basis of gender.
 - Executive Gender Balance Analysis of Financial Year 2020-2021.
