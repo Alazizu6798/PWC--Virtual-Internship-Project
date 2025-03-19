@@ -1,10 +1,16 @@
-# Coffee Shop Sales Dashboard
+# Virtual Internship Task 1
 
-# Project Objective
-The primary aim was to empower the decision-makers of Coffee Shop with data-driven insights, fostering strategic growth and compititiveness in dynamic coffee shop industry.
+# Task 1 Objective
+The primary aim was to look for transperancy and insight into the data of call centre. To Provide an accurate overview of long-term trends in customer and agent behaviour.
+# Task 2 Objective
+To Create a dashboard for the retention manager reflecting the KPIs for customers demographics and insights. With Which Customer Risk Analysis can be done.
+# Task 3 Objective
+Create visualizations to represent HR data, particularly focusing on gender-related KPIs. To identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
 
 ## DataSet Used 
- - <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Sales Data</a>
+ - <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/01%20Call-Center-Dataset%20-%20Task%201.xlsx">Call Centre Data</a>
+ - <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/02%20Churn-Dataset%20-%20Task%202.xlsx">Churn Data</a>
+ - <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/03%20Diversity-Inclusion-Dataset%20-%20Task%203.xlsx">Diversity & Inclusion Data</a>
 # Business Requirements
 
 - Enhanced understanging of sales dynamics and performance drivers.
