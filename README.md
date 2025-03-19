@@ -1,4 +1,4 @@
-# Virtual Internship Task 1
+# Virtual Internship Tasks
 
 # Task 1 Objective
 The primary aim was to look for transperancy and insight into the data of call centre. To Provide an accurate overview of long-term trends in customer and agent behaviour.
@@ -13,51 +13,28 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
  - <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/03%20Diversity-Inclusion-Dataset%20-%20Task%203.xlsx">Diversity & Inclusion Data</a>
 # Business Requirements
 
-- Enhanced understanging of sales dynamics and performance drivers.
-- Identification of Geographical areas with high and low sales potential.
-- Insightsinto product performance, aiding in inventory and marketing decisions.
-- Informed pricing and margin strategies for improved profitability.
-- Actionable recommendation for optimizing sales and profit across various dimensions.
-# Question (KPIs)
+- Overall Customers Satisfaction.
+- Identification of risk factors which leads the termination of contracts.
+- Identify the potential root causes for the slow progress in achieving gender balance at the executive management level.
 
-1. Total Sales Analysis
--  Calculate the total sales for each respective month.
--  Determine the month-on-month increase or decrease in sales.
--  Calculate the difference in sales between the selected month and the previous month.
-2. Total Orders Analysis:
--  Calculate the total number of orders for each respective month.
--  Determine the month-on-month increase or decrease in the number of orders.
--  Calculate the difference in the number of orders between the selected month and the previous month.
-3. Total Quantity Sold Analysis:
--  Calculate the total quantity sold for each respective month.
--  Determine the month-on-month increase or decrease in the total quantity sold.
--  Calculate the difference in the total quantity sold between the selected month and the previous month.
-4. Calendar Heat Map:
-- Implement a calendar heat map that dynamically adjusts based on the selected month from a slicer.
-- Each day on the calendar will be color-coded to represent sales volume, with darker shades indicating higher sales.
-- Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day.
-5. Sales Analysis by Weekdays and Weekends:
-- Segment sales data into weekdays and weekends to analyze performance variations.
-- Provide insights into whether sales patterns differ significantly between weekdays and weekends.
-6. Sales Analysis by Store Location:
-- Visualize sales data by different store locations.
-- Include month-over-month (MoM) difference metrics based on the selected month in the slicer.
-- Highlight MoM sales increase or decrease for each store location to identify trends.
-7. Daily Sales Analysis with Average Line:
-- Display daily sales for the selected month with a line chart.
-- Incorporate an average line on the chart to represent the average daily sales.
-- Highlight bars exceeding or falling below the average sales to identify exceptional sales days.
-8. Sales Analysis by Product Category:
-- Analyze sales performance across different product categories.
-- Provide insights into which product categories contribute the most to overall sales.
-9. Top 10 Products by Sales:
-- Identify and display the top 10 products based on sales volume.
-- Allow users to quickly visualize the best-performing products in terms of sales.
-10. Sales Analysis by Days and Hours:
-- Utilize a heat map to visualize sales patterns by days and hours.
-- Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
-- Dashboard Interaction <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-08%20195301.png">View Dashboard</a>
-- SQL Process <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/MY%20SQL%20Queries.docx">Sql Queries<a/>
+# Question (KPIs)
+1 Task
+- Overall customer satisfaction
+- Overall calls answered/abandoned
+- Calls by time
+- Average speed of answer
+- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Call%20Centre%20Trends.pbix">Call Centre Trends Dashboard</a>
+2 Task
+- Customers Demographics Analysis as per there subscriptions of contract.
+- Customers Acoount Analysis as per there payment method.
+- Services Customer Signed up for.
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Customer%20Risk%20Analysis.pbix">Customer Risk Analysis Dashboard</a>
+3 Task
+- Performance Rating Analysis on the basis of gender.
+- Executive Gender Balance Analysis of Financial Year 2020-2021.
+- Age group Analysis in terms of promotions and total number of employees by the end of both Financial years 2020-2021.
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Diversity%20%26%20Inclusion%20Dashboard.pbix">Diversity & Inclusion Dashboard</a>
 
 # Process
 - Verified data for any  missing values and anomalies.
