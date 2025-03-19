@@ -53,10 +53,12 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 ![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Call%20centre%20Trend.png)
 
 # Task 2
+![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/churn%20Dashboard.png)
 ![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Customer%20Risk%20Analysis.png)
 
 # Task 3
 ![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Diversity%20%26%20Inclusion%20Dashboard.png)
+![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Diversity%20%26%20Inclusion%20Dashboard%202.png)
 
 
 # Project Insights 
