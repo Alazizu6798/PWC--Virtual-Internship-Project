@@ -68,10 +68,12 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Martha is the Agent having highest the satisfaction rating of 3.50.
 - Highest Operating sales was done in month of June which was $166K..
 - Maximum Number of call are for topic Streaming.
+
 2 Task
 - Total Number of Customer at risk is 7043.
 - Subscription for 1 year is enrolled by maximum number of customers.  
 - Electronic check payment method is prefered for the most of the time by customer.
+
 3 Task
 - Maximum number of male is hired as executive and maximum number of female is hired as Junior Officer  and total hiring percentage Male is 59% where as Female is 41%.
 - Maximum number of promotion is happened in Junior Officer Department.
