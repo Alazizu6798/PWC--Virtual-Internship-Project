@@ -49,8 +49,15 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Used Bar chart to analyze the sales distribution among various Stores and product category to vizualize the contribution of Stores as per there location in total sales.
 - Applied slicers to make it dynamic.
 
-# Dashboard
-![Screenshot(495)](https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/coffee%20shop%20dashboaard.png)
+# Task 1
+![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Call%20centre%20Trend.png)
+
+# Task 2
+![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Customer%20Risk%20Analysis.png)
+
+# Task 3
+![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Diversity%20%26%20Inclusion%20Dashboard.png)
+
 
 # Project Insights 
 - Barista Espresso are more likely to be first priority of the customers.
