@@ -18,7 +18,7 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Identify the potential root causes for the slow progress in achieving gender balance at the executive management level.
 
 # Question (KPIs)
-1 Task
+ Task 1
 - Overall customer satisfaction
 - Overall calls answered/abandoned
 - Calls by time
@@ -26,13 +26,13 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Call%20Centre%20Trends.pbix">Call Centre Trends Dashboard</a>
 
-2 Task
+ Task 2
 - Customers Demographics Analysis as per there subscriptions of contract.
 - Customers Acoount Analysis as per there payment method.
 - Services Customer Signed up for.
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Customer%20Risk%20Analysis.pbix">Customer Risk Analysis Dashboard</a>
 
-3 Task
+ Task 3
 - Performance Rating Analysis on the basis of gender.
 - Executive Gender Balance Analysis of Financial Year 2020-2021.
 - Age group Analysis in terms of promotions and total number of employees by the end of both Financial years 2020-2021.
@@ -63,17 +63,17 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
 
 # Project Insights 
-1 Task
+ Task 1
 - Average Satisfaction Rating is 3.40 which quite close to targeted rating 4.50.
 - Martha is the Agent having highest the satisfaction rating of 3.50.
 - Highest Operating sales was done in month of June which was $166K..
 - Maximum Number of call are for topic Streaming.
 
-2 Task
+ Task 2
 - Total Number of Customer at risk is 7043.
 - Subscription for 1 year is enrolled by maximum number of customers.  
 - Electronic check payment method is prefered for the most of the time by customer.
 
-3 Task
+ Task 3
 - Maximum number of male is hired as executive and maximum number of female is hired as Junior Officer  and total hiring percentage Male is 59% where as Female is 41%.
 - Maximum number of promotion is happened in Junior Officer Department.
