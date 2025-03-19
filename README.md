@@ -40,14 +40,15 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
 # Process
 - Verified data for any  missing values and anomalies.
-- Performed Data cleaning changed some data types so that data is clean and consistent with respect to data type, data format and values used in MySQL.
+- Performed Data cleaning changed some data types so that data is clean and consistent with respect to data type, data format and values..
 - Used KPI card to display business requirements according to the questions asked.
-- Used column chart to show Daily Sales Analysis with Average Line of total sales to identify exceptional sales days.
-- Created Heat chart to display sales as per days specifically on particular hour.
-- Created Calender Heat Map in which each day will show sales volume.
-- Used Donut chart to show sales by weekdays and weekends.
-- Used Bar chart to analyze the sales distribution among various Stores and product category to vizualize the contribution of Stores as per there location in total sales.
-- Applied slicers to make it dynamic.
+- Used column chart to show Toatal Answered Calls by month , churn rate by internet services , total count of calls per hour, and churn rate by different types of contract.
+- Created Guage chart to show Average Satisfaction rating with comparison of target rating.
+- Created bar chart to show Avg Satisfaction rating by Agent, Total count of calls by Topics, Total count of subscription with maximum number of years, and payment methods used by customer.
+- Used Donut chart to show different types of Internet Services and Executive Gender Balance.
+- Used Clustered Column Chart to show total number of hirings per department and promotions per department filtered by gender.
+- Used Clustered Bar chart to analyze the total percentage difference in male and female in different departments, total number of promotions filtered by gender and Performance Rating.
+- Applied Topic, Agent, Internet Services, Contract, Department, Job Level, Age, and Region Level slicers to make it dynamic.
 
 # Task 1
 ![Screenshot(495)](https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Call%20centre%20Trend.png)
@@ -62,8 +63,15 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
 
 # Project Insights 
-- Barista Espresso are more likely to be first priority of the customers.
+1 Task
+- Average Satisfaction Rating is 3.40 which quite close to targeted rating 4.50.
+- Martha is the Agent having highest the satisfaction rating of 3.50.
 - Highest Operating sales was done in month of June which was $166K..
- - Maximum number of Sales is done by Hell's Kitchen.
- - Profitable and large engagement time falls under first half of the day which is in between 7AM-11AM.
-- There large number of sale in weekdays as compaered to weekends.
+- Maximum Number of call are for topic Streaming.
+2 Task
+- Total Number of Customer at risk is 7043.
+- Subscription for 1 year is enrolled by maximum number of customers.  
+- Electronic check payment method is prefered for the most of the time by customer.
+3 Task
+- Maximum number of male is hired as executive and maximum number of female is hired as Junior Officer  and total hiring percentage Male is 59% where as Female is 41%.
+- Maximum number of promotion is happened in Junior Officer Department.
