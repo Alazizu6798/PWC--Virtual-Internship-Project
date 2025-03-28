@@ -64,7 +64,7 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
 # Project Insights 
  Task 1
-- Average Satisfaction Rating is 3.40 which quite close to targeted rating 4.50.
+- Average Satisfaction Rating is 3.40 which is quite close to targeted rating 4.50.
 - Martha is the Agent having highest the satisfaction rating of 3.50.
 - Highest Operating sales was done in month of June which was $166K..
 - Maximum Number of call are for topic Streaming.
