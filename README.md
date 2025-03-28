@@ -40,7 +40,7 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
 # Process
 - Verified data for any  missing values and anomalies.
-- Performed Data cleaning changed some data types so that data is clean and consistent with respect to data type, data format and values..
+- Performed Data cleaning changed and some data types so that data is clean and consistent with respect to data type, data format and values..
 - Used KPI card to display business requirements according to the questions asked.
 - Used column chart to show Toatal Answered Calls by month , churn rate by internet services , total count of calls per hour, and churn rate by different types of contract.
 - Created Guage chart to show Average Satisfaction rating with comparison of target rating.
