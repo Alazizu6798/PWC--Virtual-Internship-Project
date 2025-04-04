@@ -1,7 +1,7 @@
 # Virtual Internship Tasks
 
 # Task 1 Objective
-The primary aim was to look for transperancy and insight into the data of call centre. To Provide an accurate overview of long-term trends in customer and agent behaviour.
+The primary aim was to look for transparency and insight into the data of call centre. To Provide an accurate overview of long-term trends in customer and agent behaviour.
 # Task 2 Objective
 To Create a dashboard for the retention manager reflecting the KPIs for customers demographics and insights. With Which Customer Risk Analysis can be done.
 # Task 3 Objective
@@ -28,7 +28,7 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 
  Task 2
 - Customers Demographics Analysis as per there subscriptions of contract.
-- Customers Acoount Analysis as per there payment method.
+- Customers Acount Analysis as per there payment method.
 - Services Customer Signed up for.
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/PWC--Virtual-Internship-Project/blob/main/Customer%20Risk%20Analysis.pbix">Customer Risk Analysis Dashboard</a>
 
@@ -42,8 +42,8 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Verified data for any  missing values and anomalies.
 - Performed Data cleaning changed and some data types so that data is clean and consistent with respect to data type, data format and values..
 - Used KPI card to display business requirements according to the questions asked.
-- Used column chart to show Toatal Answered Calls by month , churn rate by internet services , total count of calls per hour, and churn rate by different types of contract.
-- Created Guage chart to show Average Satisfaction rating with comparison of target rating.
+- Used column chart to show Total Answered Calls by month , churn rate by internet services , total count of calls per hour, and churn rate by different types of contract.
+- Created Gauge chart to show Average Satisfaction rating with comparison of target rating.
 - Created bar chart to show Avg Satisfaction rating by Agent, Total count of calls by Topics, Total count of subscription with maximum number of years, and payment methods used by customer.
 - Used Donut chart to show different types of Internet Services and Executive Gender Balance.
 - Used Clustered Column Chart to show total number of hirings per department and promotions per department filtered by gender.
@@ -72,8 +72,11 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
  Task 2
 - Total Number of Customer at risk is 7043.
 - Subscription for 1 year is enrolled by maximum number of customers.  
-- Electronic check payment method is prefered for the most of the time by customer.
+- Electronic check payment method is preferred for the most of the time by customer.
 
  Task 3
 - Maximum number of male is hired as executive and maximum number of female is hired as Junior Officer  and total hiring percentage of Male is 59% where as Female is 41%.
 - The highest number of promotions occurred in the Junior Officer Department.
+
+# Conclusion
+The analysis highlighted key areas for improvement across customer service, retention, and HR. Customer satisfaction is below the target, with most calls related to streaming issues. A large number of customers are at risk, especially those with 1-year contracts using electronic checks. In HR, gender imbalance remains at the executive level, with most promotions occurring at the Junior Officer level. These insights support targeted actions to enhance customer experience, reduce churn, and improve diversity in leadership roles.
