@@ -75,5 +75,5 @@ Create visualizations to represent HR data, particularly focusing on gender-rela
 - Electronic check payment method is prefered for the most of the time by customer.
 
  Task 3
-- Maximum number of male is hired as executive and maximum number of female is hired as Junior Officer  and total hiring percentage Male is 59% where as Female is 41%.
-- Maximum number of promotion is happened in Junior Officer Department.
+- Maximum number of male is hired as executive and maximum number of female is hired as Junior Officer  and total hiring percentage of Male is 59% where as Female is 41%.
+- The highest number of promotions occurred in the Junior Officer Department.
